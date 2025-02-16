@@ -17,8 +17,7 @@
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 - [Roadmap to be a SOC Analyst](https://www.youtube.com/watch?v=yzRGQF_r3pw)
 - [Top tier mentor for Cybersecurity](https://www.youtube.com/@PrabhNair1)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+
 
 <h2> 🤳 Connect with me:</h2>
 
