@@ -17,11 +17,11 @@
 
 
 
-<h2>📺 Tips to get you started!! xD </h2>
+<h2>📺 Channels to get you started!! xD </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [Roadmap to be a SOC Analyst](https://www.youtube.com/watch?v=yzRGQF_r3pw)
-- [Top tier mentor for Cybersecurity](https://www.youtube.com/@PrabhNair1)
+- [Josh](https://www.youtube.com/@JoshMadakor)
+- [Steven](https://www.youtube.com/@MyDFIR) MyDFIR🥸
+- [Prabh](https://www.youtube.com/@PrabhNair1) Mr.CoffeeShots☕
 
 
 <h2> 🤳 Connect with me:</h2>
