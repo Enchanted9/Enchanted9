@@ -6,8 +6,11 @@
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
  
 
-<h2> Certifications:</h2>
-  - [Microsoft Azure Fundamentals]
+- <b> Certifications</b>
+  - [CompTIA Security+ ](https://www.comptia.org/certifications/security) (In-progress🛠️)
+  - [ISC2 Certified in Cyebrsecurity](https://www.isc2.org/certifications/cc)
+  - [Microsoft Azure Fundamentals](https://learn.microsoft.com/en-us/credentials/certifications/azure-fundamentals/?practice-assessment-type=certification)
+  - [Qualys Vulnerability Management](https://www.qualys.com/training/course/vmdr/)
   
 
 
