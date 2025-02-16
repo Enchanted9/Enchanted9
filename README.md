@@ -1,4 +1,4 @@
-<h1>Hi, I'm Siraj! <br/><a href="https://github.com/Enchanted9"> IT Geek</a>, <a href="https://www.linkedin.com/in/msh2000/">Cybersecurity Professional</a>
+<h1>Hi, I'm Siraj! <br/><a href="https://github.com/Enchanted9"> IT Geek</a> and <a href="https://www.linkedin.com/in/msh2000/">Aspiring Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
   
 - <b>HomeLabs</b>
