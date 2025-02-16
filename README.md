@@ -3,9 +3,9 @@
   
 - <b>HomeLabs</b>
   
-   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
-   - [Active Directory Home Lab]
-   - [Kali Linux Tesitng Lab]
+   - Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion
+   - Active Directory Home Lab with Splunk
+   - Kali Linux Tesitng Lab
  
 
 - <b> Certifications</b>
