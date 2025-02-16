@@ -1,9 +1,11 @@
 <h1>Hi, I'm Siraj! <br/><a href="https://github.com/Enchanted9"> IT Geek</a>, <a href="https://www.linkedin.com/in/msh2000/">Cybersecurity Professional</a>
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  
+- <b>HomeLabs</b>
+  
+   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion]
+   - [Active Directory Home Lab]
+   - [Kali Linux Tesitng Lab]
  
 
 - <b> Certifications</b>
