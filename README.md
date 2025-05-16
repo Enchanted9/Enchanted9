@@ -6,6 +6,8 @@
    - Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion
    - Active Directory Home Lab with Splunk
    - Kali Linux Tesitng Lab
+   - PenTesting Lab - Metasploitable 2 and Linux VMs
+   - Faus PCI DSS 4.0 Audit for a FinTech org
  
 
 - <b> Certifications</b>
