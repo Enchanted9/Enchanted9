@@ -6,6 +6,7 @@
    - Detection and Monitoring: Windows EventLog - Failed RDP Logins Source IP to full GeoData Conversion
    - Active Directory Home Lab with Splunk
    - PenTesting Lab - Metasploitable 2 and Linux VMs
+   - Site to Site VPN using Wireguard and pFsense
  
 
 - <b> Certifications</b>
